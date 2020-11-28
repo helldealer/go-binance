@@ -1,4 +1,4 @@
-module go-binance
+module github.com/helldealer/go-binance
 
 go 1.15
 
